@@ -13,4 +13,5 @@ For buttons:
 
 For background color(blue): #1E90FF;
 
-Test for new branch.
+Creating a new branch is quick & simple.
+
