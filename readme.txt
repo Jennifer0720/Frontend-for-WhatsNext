@@ -13,5 +13,5 @@ For buttons:
 
 For background color(blue): #1E90FF;
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
 
