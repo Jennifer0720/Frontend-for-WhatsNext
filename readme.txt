@@ -14,4 +14,3 @@ For buttons:
 For background color(blue): #1E90FF;
 
 Creating a new branch is quick and simple.
-Learning how to manage branches in git.
