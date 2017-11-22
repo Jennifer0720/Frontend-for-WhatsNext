@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Three html sheets are involved.
 They are (html/css):
 	Welcome Page;
@@ -14,3 +15,8 @@ For buttons:
 For background color(blue): #1E90FF;
 
 Creating a new branch is quick and simple.
+=======
+Git is a distributed version control system.
+Git is free software.
+Learning to manage different branches.
+>>>>>>> dev
